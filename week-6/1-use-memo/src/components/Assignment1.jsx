@@ -9,7 +9,7 @@ export function Assignment1() {
     const expensiveValue = useMemo(()=>{
         let value=1;
       for (let i = 1; i <= input; i++) {
-        value=value+1;
+        value=value*1;
     }
     return value;
     },[input]); 
