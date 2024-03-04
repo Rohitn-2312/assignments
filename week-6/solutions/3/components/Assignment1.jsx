@@ -21,3 +21,4 @@ export function Assignment1() {
         </div>
     );
 };
+
